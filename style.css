@@ -10,6 +10,8 @@ header{
 .purchase-btn{
     background-color: #E76F51;
 }
-.honda-fetured-info{
+/* Fetured section  */
+.honda-fetured-info, .star , .highliht{
     color: #E76F51;
 }
+/* Happy Clients section */
